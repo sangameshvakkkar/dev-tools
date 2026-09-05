@@ -1,0 +1,10 @@
+# Portable LazyGit settings belong here.
+# This file intentionally excludes state.yml (recent repositories, command history,
+# update timestamps, and other machine-specific data).
+#
+# Example:
+# gui:
+#   theme:
+#     activeBorderColor:
+#       - '#89b4fa'
+#       - bold

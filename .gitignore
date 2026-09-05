@@ -1,0 +1,11 @@
+# Secrets and machine-specific state
+.env
+*.secret
+*.log
+inventory/
+config-backups/
+**/.DS_Store
+**/state.yml
+**/lazy-lock.json
+**/plugin/
+**/site/
